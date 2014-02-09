@@ -1,0 +1,1 @@
+C:\Work\WP\Test\Tasky\Tasky.Win8\TaskyWin8.csproj;x86

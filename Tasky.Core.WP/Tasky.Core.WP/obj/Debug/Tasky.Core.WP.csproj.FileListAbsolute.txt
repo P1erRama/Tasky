@@ -1,0 +1,4 @@
+C:\Work\WP\Test\Tasky.Core\Tasky.Core.WP\Tasky.Core.WP\Bin\Debug\Tasky.Core.WP.dll
+C:\Work\WP\Test\Tasky.Core\Tasky.Core.WP\Tasky.Core.WP\Bin\Debug\Tasky.Core.WP.pdb
+C:\Work\WP\Test\Tasky.Core\Tasky.Core.WP\Tasky.Core.WP\obj\Debug\Tasky.Core.WP.dll
+C:\Work\WP\Test\Tasky.Core\Tasky.Core.WP\Tasky.Core.WP\obj\Debug\Tasky.Core.WP.pdb

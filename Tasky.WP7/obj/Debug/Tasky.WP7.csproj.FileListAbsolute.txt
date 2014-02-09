@@ -1,0 +1,16 @@
+C:\Work\WP\Test\Tasky\Tasky.WP7\obj\Debug\App.g.cs
+C:\Work\WP\Test\Tasky\Tasky.WP7\obj\Debug\MainPage.g.cs
+C:\Work\WP\Test\Tasky\Tasky.WP7\obj\Debug\TaskDetailsPage.g.cs
+C:\Work\WP\Test\Tasky\Tasky.WP7\obj\Debug\Tasky.WP7.g.resources
+C:\Work\WP\Test\Tasky\Tasky.WP7\Bin\Debug\ApplicationIcon.png
+C:\Work\WP\Test\Tasky\Tasky.WP7\Bin\Debug\Background.png
+C:\Work\WP\Test\Tasky\Tasky.WP7\Bin\Debug\Tasky.WP7.dll
+C:\Work\WP\Test\Tasky\Tasky.WP7\Bin\Debug\Tasky.WP7.pdb
+C:\Work\WP\Test\Tasky\Tasky.WP7\Bin\Debug\Community.CsharpSqlite.WinPhone.dll
+C:\Work\WP\Test\Tasky\Tasky.WP7\Bin\Debug\Community.CsharpSqlite.WinPhone.pdb
+C:\Work\WP\Test\Tasky\Tasky.WP7\obj\Debug\Tasky.WP7.dll
+C:\Work\WP\Test\Tasky\Tasky.WP7\obj\Debug\Tasky.WP7.pdb
+C:\Work\WP\Test\Tasky\Tasky.WP7\Bin\Debug\AppManifest.xaml
+C:\Work\WP\Test\Tasky\Tasky.WP7\Bin\Debug\Tasky.WP7.xap
+C:\Work\WP\Test\Tasky\Tasky.WP7\obj\Debug\XapCacheFile.xml
+C:\Work\WP\Test\Tasky\Tasky.WP7\obj\Debug\Tasky.WP7.csprojResolveAssemblyReference.cache

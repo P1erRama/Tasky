@@ -1,0 +1,10 @@
+D:\Work\Mono\Test\Tasky\Android\Tasky.Core\bin\Debug\Tasky.Core.Anroid.dll
+D:\Work\Mono\Test\Tasky\Android\Tasky.Core\bin\Debug\Tasky.Core.Anroid.pdb
+D:\Work\Mono\Test\Tasky\Android\Tasky.Core\bin\Debug\Tasky.Core.Anroid.dll.mdb
+D:\Work\Mono\Test\Tasky\Android\Tasky.Core\bin\Debug\Tasky.Core.Anroid.apk
+D:\Work\Mono\Test\Tasky\Android\Tasky.Core\bin\Debug\Tasky.Core.Anroid-Signed.apk
+D:\Work\Mono\Test\Tasky\Android\Tasky.Core\obj\Debug\Tasky.Core.Anroid.dll
+D:\Work\Mono\Test\Tasky\Android\Tasky.Core\obj\Debug\Tasky.Core.Anroid.pdb
+D:\Work\Mono\Test\Tasky\Android\Tasky.Core\obj\Debug\android\bin\Tasky.Core.Anroid.apk
+D:\Work\Mono\Test\Tasky\Android\Tasky.Core\obj\Debug\R.cs.flag
+D:\Work\Mono\Test\Tasky\Android\Tasky.Core\obj\Debug\uploadflags.txt
